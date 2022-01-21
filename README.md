@@ -86,7 +86,7 @@ Tool Installation successful
 <a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
 </p>  
 <p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ # Red Hackers Army
  <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
 </p>
 
@@ -98,7 +98,7 @@ Tool Installation successful
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
 
-#Languages and Tools
+# Languages and Tools
 </p>
 
 <p align="center">
