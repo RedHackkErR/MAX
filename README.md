@@ -1,4 +1,6 @@
-# Instagram Account Hacking Tool
+# Instagram Account Cracking Tool
+ 
+This is a tool that will help you crack Instagram account very quickly.  This tool is completely free.  You also need a cookie to run this tool.  You will understand how to get it when you run the tool
 
 ### Installation On Termux
  
