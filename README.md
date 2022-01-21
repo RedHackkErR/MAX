@@ -97,6 +97,12 @@ Tool Installation successful
  <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
 </p>
 
+<p align="center">
+<a href="https://github.com/Aryan-mfc/CAM-HACK"><img title="CAM-HACK" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=CAM-HACK&theme=radical"></a>
+<a href="https://github.com/Aryan-mfc/fb-brute"><img title="fb-brute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=fb-brute&theme=highcontrast"></a>
+<a href="https://github.com/Aryan-mfc/gmail-hack"><img title="gmail-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=gmail-hack&theme=highcontrast"></a>
+<a href="https://github.com/Aryan-mfc/FacebookBrute"><img title="FacebookBrute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=highcontrast"></a>
+<a href="https://github.com/Aryan-mfc/Crack"><img title="Crack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=Crack&theme=highcontrast"></a>
 
 
 
