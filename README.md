@@ -86,7 +86,9 @@ Tool Installation successful
 <a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
 </p>  
 <p align="center"> 
+
  # Red Hackers Army
+
  <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
 </p>
 
