@@ -89,6 +89,9 @@ Tool Installation successful
 
  # Red Hackers Army
 
+
+# Profile Views
+
  <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
 </p>
 
