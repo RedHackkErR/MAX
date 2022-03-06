@@ -13,7 +13,7 @@ $ pkg install python
 $ pkg install python2
 $ pip2 install mechanize
 $ pip2 install requests
-$ git clone https://github.com/Aryan-mfc/MAX
+$ git clone https://github.com/cyberkattappa779/MAX
 $ cd MAX
 $ ls
 $ git pull
@@ -32,7 +32,7 @@ apk add python
 apk add py3-pip
 apk add python2
 gem install toilet
-git clone https://github.com/Aryan-mfc/MAX
+git clone https://github.com/cyberkattappa779/MAX
 cd MAx
 git pull
 chmod +x *
@@ -47,7 +47,7 @@ python Insta.py
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/Aryan-mfc/MAX
+git clone https://github.com/cyberkattappa779/MAX
 cd MAX 
 git pull
 chmod +x *
@@ -73,7 +73,7 @@ brew install git
 brew install python
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/Aryan-mfc/MAX
+git clone https://github.com/cyberkattappa779/MAX
 cd MAX
 git pull
 chmod +x *
@@ -89,7 +89,7 @@ Tool Installation successful
 </p>  
 <p align="center"> 
 
- # Red Hackers Army
+ # Kerala cyber Hackers
 
 
 # Profile Views
